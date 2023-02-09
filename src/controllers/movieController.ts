@@ -25,7 +25,7 @@ export async function createMovie(req: Request, res: Response) {
         return res.status(201).json({movie})
         
     } catch (error: any) {
-        
+        Logger.error(`Error no sistema: ${error.message}`) 
     }
 
-}
+} 

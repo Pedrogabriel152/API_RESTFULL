@@ -1,3 +1,9 @@
 2023-02_09 13:53:29:5329 - [31merror[39m: [31mNao foi possivel conectar[39m
 2023-02_09 13:53:29:5329 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
 2023-02_09 14:37:46:3746 - [31merror[39m: [31mNao foi possivel conectar[39m
+2023-02_09 15:21:37:2137 - [31merror[39m: [31mNao foi possivel conectar[39m
+2023-02_09 15:26:06:266 - [31merror[39m: [31mNao foi possivel conectar[39m
+2023-02_09 15:28:13:2813 - [31merror[39m: [31mError no sistema: user is not allowed to do action [insert] on [API_REST_FUll.movies][39m
+2023-02_09 15:29:40:2940 - [31merror[39m: [31mError no sistema: user is not allowed to do action [insert] on [API_REST_FUll.movies][39m
+2023-02_09 15:31:40:3140 - [31merror[39m: [31mError no sistema: user is not allowed to do action [insert] on [API_REST_FUll.movies][39m
+2023-02_09 15:56:09:569 - [31merror[39m: [31mError no sistema: Cannot set headers after they are sent to the client[39m
