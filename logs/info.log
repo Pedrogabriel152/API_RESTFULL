@@ -1,0 +1,45 @@
+2023-02_09 13:51:46:5146 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 13:53:18:5318 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 13:53:18:5318 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 13:53:29:5329 - [31merror[39m: [31mNao foi possivel conectar[39m
+2023-02_09 13:53:29:5329 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2023-02_09 13:53:29:5329 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 13:53:43:5343 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 13:53:43:5343 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 13:57:03:573 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 13:57:03:573 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:08:41:841 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:08:41:841 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:09:15:915 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:09:15:915 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:10:12:1012 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:10:12:1012 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:11:34:1134 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:11:35:1135 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:12:15:1215 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:12:15:1215 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:27:11:2711 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:27:11:2711 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:27:49:2749 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:27:49:2749 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:31:50:3150 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:31:50:3150 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:32:43:3243 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:32:43:3243 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:33:45:3345 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:33:46:3346 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:34:05:345 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:34:05:345 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:34:44:3444 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:34:44:3444 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:34:56:3456 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:34:56:3456 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:35:07:357 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:35:07:357 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:35:18:3518 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:35:18:3518 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:35:35:3535 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:35:35:3535 - [32minfo[39m: [32mApp rodando[39m
+2023-02_09 14:37:46:3746 - [31merror[39m: [31mNao foi possivel conectar[39m
+2023-02_09 14:39:15:3915 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_09 14:39:15:3915 - [32minfo[39m: [32mApp rodando[39m

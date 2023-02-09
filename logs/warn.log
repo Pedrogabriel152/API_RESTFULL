@@ -1,0 +1,3 @@
+2023-02_09 13:53:29:5329 - [31merror[39m: [31mNao foi possivel conectar[39m
+2023-02_09 13:53:29:5329 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2023-02_09 14:37:46:3746 - [31merror[39m: [31mNao foi possivel conectar[39m
