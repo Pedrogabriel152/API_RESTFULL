@@ -8,3 +8,6 @@
 2023-02_09 15:31:40:3140 - [31merror[39m: [31mError no sistema: user is not allowed to do action [insert] on [API_REST_FUll.movies][39m
 2023-02_09 15:56:09:569 - [31merror[39m: [31mError no sistema: Cannot set headers after they are sent to the client[39m
 2023-02_10 08:06:06:66 - [31merror[39m: [31mNao foi possivel conectar[39m
+2023-02_10 09:16:36:1636 - [31merror[39m: [31mError no sistema: Cast to ObjectId failed for value "63e63341309003bed0a2f1f" (type string) at path "_id" for model "Movie"[39m
+2023-02_10 09:18:55:1855 - [31merror[39m: [31mError no sistema: Cast to ObjectId failed for value "63e63341309003bed0a2f1f" (type string) at path "_id" for model "Movie"[39m
+2023-02_10 09:19:58:1958 - [31merror[39m: [31mError no sistema: Cast to ObjectId failed for value "63e63341309003bed0a2f1oi" (type string) at path "_id" for model "Movie"[39m

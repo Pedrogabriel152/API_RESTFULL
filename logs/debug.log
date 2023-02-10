@@ -106,3 +106,220 @@
 2023-02_10 08:31:58:3158 - [32minfo[39m: [32mApp rodando[39m
 2023-02_10 08:32:10:3210 - [32minfo[39m: [32mConectou ao banco[39m
 2023-02_10 08:32:10:3210 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 08:48:20:4820 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 08:48:20:4820 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 08:48:58:4858 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 08:48:58:4858 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 08:50:13:5013 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 08:50:13:5013 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 08:50:26:5026 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 08:50:26:5026 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 08:52:12:5212 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 08:52:12:5212 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 08:52:22:5222 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 08:52:23:5223 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 08:52:44:5244 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 08:52:44:5244 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 08:53:55:5355 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 08:53:55:5355 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 08:54:17:5417 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 08:54:17:5417 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 08:54:28:5428 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 08:54:28:5428 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 08:54:42:5442 - [35mhttp[39m: [35mPOST /api/movie 422 148 - 103.752 ms[39m
+[35m[39m
+2023-02_10 08:56:07:567 - [35mhttp[39m: [35mPOST /api/movie 422 106 - 25.840 ms[39m
+[35m[39m
+2023-02_10 08:57:02:572 - [35mhttp[39m: [35mPOST /api/movie 201 209 - 263.473 ms[39m
+[35m[39m
+2023-02_10 08:59:06:596 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 08:59:06:596 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 08:59:16:5916 - [35mhttp[39m: [35mPOST /api/movie 201 209 - 346.052 ms[39m
+[35m[39m
+2023-02_10 09:00:33:033 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:00:33:033 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:01:03:13 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:01:03:13 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:01:24:124 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:01:24:124 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:01:41:141 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:01:41:141 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:01:42:142 - [35mhttp[39m: [35mPOST /api/movie 422 61 - 100.133 ms[39m
+[35m[39m
+2023-02_10 09:02:34:234 - [35mhttp[39m: [35mPOST /api/movie 201 232 - 258.838 ms[39m
+[35m[39m
+2023-02_10 09:03:02:32 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:03:02:32 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:03:15:315 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:03:15:315 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:03:28:328 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:03:28:328 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:03:47:347 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:03:47:347 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:04:37:437 - [35mhttp[39m: [35mPOST /api/movie 422 54 - 111.558 ms[39m
+[35m[39m
+2023-02_10 09:04:59:459 - [35mhttp[39m: [35mPOST /api/movie 422 54 - 46.086 ms[39m
+[35m[39m
+2023-02_10 09:05:55:555 - [35mhttp[39m: [35mPOST /api/movie 422 54 - 25.348 ms[39m
+[35m[39m
+2023-02_10 09:06:25:625 - [35mhttp[39m: [35mPOST /api/movie 201 775 - 321.049 ms[39m
+[35m[39m
+2023-02_10 09:10:35:1035 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:10:35:1035 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:10:49:1049 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:10:49:1049 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:11:08:118 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:11:08:118 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:11:40:1140 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:11:40:1140 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:11:52:1152 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:11:52:1152 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:12:05:125 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:12:05:125 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:12:45:1245 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:12:45:1245 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:13:01:131 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:13:01:131 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:13:16:1316 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:13:16:1316 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:13:52:1352 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:13:52:1352 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:14:14:1414 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:14:14:1414 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:14:54:1454 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:14:54:1454 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:15:09:159 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:15:09:159 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:16:31:1631 - [35mhttp[39m: [35mGET /api/movie/63e63341309003bed0a2f1fa - - - - ms[39m
+[35m[39m
+2023-02_10 09:16:36:1636 - [31merror[39m: [31mError no sistema: Cast to ObjectId failed for value "63e63341309003bed0a2f1f" (type string) at path "_id" for model "Movie"[39m
+2023-02_10 09:17:05:175 - [35mhttp[39m: [35mGET /api/movie/63e63341309003bed0a2f1f - - - - ms[39m
+[35m[39m
+2023-02_10 09:18:55:1855 - [31merror[39m: [31mError no sistema: Cast to ObjectId failed for value "63e63341309003bed0a2f1f" (type string) at path "_id" for model "Movie"[39m
+2023-02_10 09:18:55:1855 - [35mhttp[39m: [35mGET /api/movie/63e63341309003bed0a2f1f - - - - ms[39m
+[35m[39m
+2023-02_10 09:19:24:1924 - [35mhttp[39m: [35mGET /api/movie/63e63341309003bed0a2f1fa - - - - ms[39m
+[35m[39m
+2023-02_10 09:19:53:1953 - [35mhttp[39m: [35mGET /api/movie/63e63341309003bed0a2f1fa - - - - ms[39m
+[35m[39m
+2023-02_10 09:19:58:1958 - [31merror[39m: [31mError no sistema: Cast to ObjectId failed for value "63e63341309003bed0a2f1oi" (type string) at path "_id" for model "Movie"[39m
+2023-02_10 09:21:39:2139 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:21:39:2139 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:22:33:2233 - [35mhttp[39m: [35mPOST /api/movie 201 775 - 418.737 ms[39m
+[35m[39m
+2023-02_10 09:23:00:230 - [35mhttp[39m: [35mGET /api/movie/63e63709d67dae893865f18a 404 31 - 172.063 ms[39m
+[35m[39m
+2023-02_10 09:23:10:2310 - [35mhttp[39m: [35mGET /api/movie/63e63709d67dae893865f18f - - - - ms[39m
+[35m[39m
+2023-02_10 09:23:41:2341 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:23:41:2341 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:24:09:249 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:24:09:249 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:24:16:2416 - [35mhttp[39m: [35mGET /api/movie/63e63709d67dae893865f18f 200 775 - 269.667 ms[39m
+[35m[39m
+2023-02_10 09:27:25:2725 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:27:25:2725 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:27:53:2753 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:27:53:2753 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:28:39:2839 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:28:39:2839 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:28:51:2851 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:28:51:2851 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:29:28:2928 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:29:28:2928 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:30:01:301 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:30:01:301 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:30:19:3019 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:30:19:3019 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:31:05:315 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:31:05:315 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:32:31:3231 - [35mhttp[39m: [35mGET /api/allmovies 200 1544 - 280.096 ms[39m
+[35m[39m
+2023-02_10 09:36:12:3612 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:36:12:3612 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:36:32:3632 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:36:32:3632 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:36:54:3654 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:36:54:3654 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:38:16:3816 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:38:16:3816 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:38:58:3858 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:38:59:3859 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:39:09:399 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:39:09:399 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:39:40:3940 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:39:40:3940 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:40:23:4023 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:40:23:4023 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:40:37:4037 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:40:37:4037 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:41:41:4141 - [35mhttp[39m: [35mDELETE /api/movie/63e63341309003bed0a2f1fb/delete 404 183 - 48.324 ms[39m
+[35m[39m
+2023-02_10 09:42:52:4252 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:42:53:4253 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:43:09:439 - [35mhttp[39m: [35mDELETE /api/movie/63e63341309003bed0a2f1fb/delete 404 31 - 172.367 ms[39m
+[35m[39m
+2023-02_10 09:44:01:441 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:44:01:441 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:44:08:448 - [35mhttp[39m: [35mDELETE /api/movie/63e63341309003bed0a2f1fa/delete 200 40 - 300.172 ms[39m
+[35m[39m
+2023-02_10 09:44:15:4415 - [35mhttp[39m: [35mDELETE /api/movie/63e63341309003bed0a2f1fa/delete 404 31 - 56.629 ms[39m
+[35m[39m
+2023-02_10 09:47:56:4756 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:47:56:4756 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:48:30:4830 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:48:30:4830 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:49:10:4910 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:49:10:4910 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:49:38:4938 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:49:38:4938 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:50:04:504 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:50:04:504 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:50:31:5031 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:50:31:5031 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:50:42:5042 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:50:42:5042 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:51:30:5130 - [35mhttp[39m: [35mGET /api/allmovies 200 778 - 291.499 ms[39m
+[35m[39m
+2023-02_10 09:51:48:5148 - [35mhttp[39m: [35mPATCH /movie/63e63709d67dae893865f18a 404 171 - 26.646 ms[39m
+[35m[39m
+2023-02_10 09:52:33:5233 - [35mhttp[39m: [35mPATCH /api/movie/63e63709d67dae893865f18A 404 175 - 14.297 ms[39m
+[35m[39m
+2023-02_10 09:52:49:5249 - [35mhttp[39m: [35mPATCH /api/movie/63e63709d67dae893865f18f 404 175 - 10.273 ms[39m
+[35m[39m
+2023-02_10 09:53:46:5346 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:53:47:5347 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:53:54:5354 - [35mhttp[39m: [35mPATCH /api/movie/63e63709d67dae893865f18f 200 42 - 394.117 ms[39m
+[35m[39m
+2023-02_10 09:54:19:5419 - [35mhttp[39m: [35mPATCH /api/movie/63e63709d67dae893865f18a 404 31 - 89.080 ms[39m
+[35m[39m
+2023-02_10 09:58:48:5848 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 09:58:48:5848 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 09:58:56:5856 - [35mhttp[39m: [35mPATCH /api/movie/63e63709d67dae893865f18f 404 31 - 216.160 ms[39m
+[35m[39m
+2023-02_10 09:59:08:598 - [35mhttp[39m: [35mGET /api/allmovies 200 13 - 92.798 ms[39m
+[35m[39m
+2023-02_10 09:59:22:5922 - [35mhttp[39m: [35mPOST /api/movie 201 775 - 350.354 ms[39m
+[35m[39m
+2023-02_10 10:00:25:025 - [35mhttp[39m: [35mPATCH /api/movie/63e63faac0bf6d3d7c4bebf9 200 42 - 126.435 ms[39m
+[35m[39m
+2023-02_10 10:00:33:033 - [35mhttp[39m: [35mGET /api/allmovies 200 778 - 54.854 ms[39m
+[35m[39m
+2023-02_10 10:00:49:049 - [35mhttp[39m: [35mGET /api/allmovies 200 778 - 52.844 ms[39m
+[35m[39m
+2023-02_10 10:01:01:11 - [35mhttp[39m: [35mPATCH /api/movie/63e63faac0bf6d3d7c4bebf9 200 42 - 67.969 ms[39m
+[35m[39m
+2023-02_10 10:02:11:211 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 10:02:11:211 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 10:02:17:217 - [35mhttp[39m: [35mPATCH /api/movie/63e63faac0bf6d3d7c4bebf9 200 52 - 266.285 ms[39m
+[35m[39m
+2023-02_10 10:02:35:235 - [32minfo[39m: [32mConectou ao banco[39m
+2023-02_10 10:02:35:235 - [32minfo[39m: [32mApp rodando[39m
+2023-02_10 10:03:46:346 - [35mhttp[39m: [35mPATCH /api/movie/63e63faac0bf6d3d7c4bebf9 200 52 - 238.484 ms[39m
+[35m[39m
+2023-02_10 10:04:18:418 - [35mhttp[39m: [35mPATCH /api/movie/63e63faac0bf6d3d7c4bebf9 200 52 - 74.393 ms[39m
+[35m[39m
+2023-02_10 10:06:03:63 - [35mhttp[39m: [35mPATCH /api/movie/63e63faac0bf6d3d7c4bebf9 200 52 - 60.529 ms[39m
+[35m[39m
+2023-02_10 10:06:14:614 - [35mhttp[39m: [35mPATCH /api/movie/63e63faac0bf6d3d7c4bebf9 200 698 - 155.698 ms[39m
+[35m[39m
