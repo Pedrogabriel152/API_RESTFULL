@@ -129,7 +129,7 @@ export async function updateMovie(req: Request, res: Response) {
             poster
         }
 
-        
+    
         const movie = await MovieModel.findById(id)
 
         if(!movie) {
